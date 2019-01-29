@@ -1,5 +1,5 @@
 # FaceSwap
-Swap face between two photos for Python 3 with OpenCV and dlib.
+Swap face between your camera and choosen photo for Python 3 with OpenCV and dlib.
 
 ## Get Started
 ```sh
